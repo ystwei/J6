@@ -46,7 +46,7 @@
 
 
     %>
-    <form id="form1" name="form1" action="check.jsp" method="post">
+    <form id="form1" name="form1" action="user" method="post">
         用户名：<input type="text" name="username" id="username"><br/>
         密码：<input type="text" name="pwd" id="pwd"><br/>
         <input type="button" value="提交" onclick="ok()">

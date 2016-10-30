@@ -49,7 +49,7 @@ public class UserDAOImpl implements IUserDAO {
             }
             if(conn!=null){
 
-                    DB.closeConnection();;
+                  //  DB.closeConnection();;
 
             }
         }

@@ -3,4 +3,33 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
+    <!--<servlet>-->
+        <!--<servlet-name>BaseControl</servlet-name>-->
+        <!---->
+        <!--<servlet-class>com.weikun.control.BaseControl</servlet-class>-->
+        <!--<init-param>-->
+            <!--<param-name>show</param-name>-->
+            <!--<param-value>/show.jsp</param-value>-->
+        <!--</init-param>-->
+
+        <!--<init-param>-->
+            <!--<param-name>show1</param-name>-->
+            <!--<param-value>/show1.jsp</param-value>-->
+        <!--</init-param>-->
+    <!--</servlet>-->
+    <!--<servlet-mapping>-->
+        <!--<servlet-name>BaseControl</servlet-name>-->
+        <!--<url-pattern>/b1</url-pattern>-->
+        <!---->
+    <!--</servlet-mapping>-->
+
+    <!--<servlet>-->
+        <!--<servlet-name>BaseControl1</servlet-name>-->
+
+        <!--<servlet-class>com.weikun.control.BaseControl</servlet-class>-->
+    <!--</servlet>-->
+    <!--<servlet-mapping>-->
+        <!--<servlet-name>BaseControl1</servlet-name>-->
+        <!--<url-pattern>/b2</url-pattern>-->
+    <!--</servlet-mapping>-->
 </web-app>
